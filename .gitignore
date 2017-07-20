@@ -109,3 +109,6 @@ settings.py
 manage.py
 wsgi.py
 uwsgi.py
+
+# Project files
+kek/__init__.py
