@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Editors
+\#*
+*~
+
+# Django
+settings.py
+manage.py
+wsgi.py
+uwsgi.py
